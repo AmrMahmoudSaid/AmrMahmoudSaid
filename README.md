@@ -1,5 +1,3 @@
-<img src="imgs/soft.jpeg" alt="00xWolf">
-
 <h3 align="center">Hi there I'm Amr Mahmoud <br/> I'm a Jr. Software Engineer</h3>
 
  - [![Profile%20views](https://komarev.com/ghpvc/?username=AmrMahmoudSaid&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE)](https://github.com/AmrMahmoudSaid)  [![GitHubFollowers: AmrMahmoudSaid](https://img.shields.io/github/followers/AmrMahmoudSaid?style=social)](https://github.com/AmrMahmoudSaid)
@@ -73,7 +71,7 @@
 <!-- ###########################################  ########################################### -->
 
 <!-- Skills ( Languages & Tools ) -->
-
+<!-- 
 ### Skills ( Languages & Tools ):
 [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
 [![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&color=informational)](https://www.virtualbox.org/)
@@ -90,7 +88,7 @@
 [![C++](https://img.shields.io/badge/language-C++-05122A?style=plastic&logo=c%2B%2B&color=informational)](https://www.cprogramming.com/)
 [![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c&color=informational)](https://www.cprogramming.com/)
 [![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&color=informational)](https://www.python.org/)
-[![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=plastic&logo=markdown&color=informational)](https://www.markdownguide.org/)
+[![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=plastic&logo=markdown&color=informational)](https://www.markdownguide.org/) -->
 <!-- [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
  -->
 <!-- Skills ( Languages & Tools ) -->
