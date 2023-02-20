@@ -1,4 +1,4 @@
-<img src="imgs/soft2.jpeg" alt="00xWolf">
+<img src="imgs/soft.jpeg" alt="00xWolf">
 
 <h3 align="center">Hi there I'm Amr Mahmoud <br/> I'm a Jr. Software Engineer</h3>
 
