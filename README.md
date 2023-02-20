@@ -1,3 +1,5 @@
+<img src="imgs/soft2.jpeg" alt="00xWolf">
+
 <h3 align="center">Hi there I'm Amr Mahmoud <br/> I'm a Jr. Software Engineer</h3>
 
  - [![Profile%20views](https://komarev.com/ghpvc/?username=AmrMahmoudSaid&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE)](https://github.com/AmrMahmoudSaid)  [![GitHubFollowers: AmrMahmoudSaid](https://img.shields.io/github/followers/AmrMahmoudSaid?style=social)](https://github.com/AmrMahmoudSaid)
