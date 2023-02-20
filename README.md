@@ -50,8 +50,8 @@
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=AmrMahmoudSaid&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
   
-  <img src="https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-light-mode-only"/>
-  <img src="https://github.com/mmsaeed509/mmsaeed509/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
+  <img src="https://github.com/AmrMahmoudSaid/AmrMahmoudSaid/blob/snake/snake-dark.svg#gh-light-mode-only"/>
+  <img src="https://github.com/AmrMahmoudSaid/AmrMahmoudSaid/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
   
 </p>
 
