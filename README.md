@@ -35,10 +35,10 @@
             &nbsp; -> space
             &emsp; -> 4x(&nbsp;)
 -->
-
+<!-- 
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=AmrMahmoudSaid&theme=darkhub&margin-w=15&margin-h=15&column=8&v=2" alt="Amr stats" />
-</p>
+</p> -->
 
 <p align="left">
     <img height="165" src="https://github-readme-stats-mmsaeed509.vercel.app/api?username=AmrMahmoudSaid&count_private=true&include_all_commits=true&theme=tokyonight" alt="Amr's stats" /> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
@@ -51,10 +51,10 @@
 <p align="center">
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=AmrMahmoudSaid&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
-  
+<!--   
   <img src="https://github.com/AmrMahmoudSaid/AmrMahmoudSaid/blob/snake/snake-dark.svg#gh-light-mode-only"/>
   <img src="https://github.com/AmrMahmoudSaid/AmrMahmoudSaid/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
-  
+   -->
 </p>
 
 <!-- Github Stats -->
