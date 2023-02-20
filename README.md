@@ -100,3 +100,4 @@
 <!-- contact me -->
 
 ## contact me
+[![linkedin](/imgs/linkedin.png)](https://www.linkedin.com/in/amr-mahmoud-668118227/)
