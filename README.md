@@ -4,7 +4,7 @@
 [![GitHubUserStars: AmrMahmoudSaid](https://img.shields.io/github/stars/AmrMahmoudSaid?style=social)](https://github.com/AmrMahmoudSaid)
 
 <!-- - I am currently learning [**`PNPT`**](https://certifications.tcm-sec.com/pnpt/), -->
- - Graduated from *Faculty of Computers and Artificial Intelligence Cairo University* 
+ - Studying at *Faculty of Computers and Artificial Intelligence Cairo University* 
  - *Software Engineering Department*
  - [My Certificates](Certifications_cv/), [My Resume](Certifications_cv/Mahmoud_Mohamed%20Said%20Ahmed_Resume.pdf), [📫 reach me](#contact-me).
  
