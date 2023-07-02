@@ -21,9 +21,9 @@
 <a href="https://github.com/AmrMahmoudSaid/CPU-Schedulers-Simulator">
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=CPU-Schedulers-Simulator&layout=compact&theme=tokyonight" />
 </a>  
-  &emsp;&emsp;&nbsp;&nbsp; 
-<a href="https://github.com/AmrMahmoudSaid/Post-web-app.git">
-   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Post_Web_App&layout=compact&theme=tokyonight" />
+
+<a href="https://github.com/AmrMahmoudSaid/Post-web-app">
+   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Post-Web-App&layout=compact&theme=tokyonight" />
 </a>  
 
 
