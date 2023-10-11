@@ -7,8 +7,6 @@
  - Studying at *Faculty of Computers and Artificial Intelligence Cairo University* 
  - *Software Engineering Department*
  - [My Certificates](Certifications_cv/), [📫 reach me](#contact-me).
- 
-
 
 <br/>
 <!-- Important Projects/Repos -->
