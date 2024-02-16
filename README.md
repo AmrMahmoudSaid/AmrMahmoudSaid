@@ -17,12 +17,12 @@
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Natours_WebApp&layout=compact&theme=tokyonight" />
 </a>
     &emsp;&emsp;&nbsp;&nbsp; 
-<a href="https://github.com/AmrMahmoudSaid/CPU-Schedulers-Simulator">
-  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=CPU-Schedulers-Simulator&layout=compact&theme=tokyonight" />
+<a href="https://github.com/AmrMahmoudSaid/Nabd_project.git">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Nabd_project&layout=compact&theme=tokyonight" />
 </a>  
 
-<a href="https://github.com/AmrMahmoudSaid/Post-web-app">
-   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Post-Web-App&layout=compact&theme=tokyonight" />
+<a href="https://github.com/AmrMahmoudSaid/CurrencyConversionApp.git">
+   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=CurrencyConversionApp&layout=compact&theme=tokyonight" />
 </a>  
 
 
