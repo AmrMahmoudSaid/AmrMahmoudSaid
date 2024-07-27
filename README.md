@@ -11,7 +11,7 @@
 <br/>
 <!-- Important Projects/Repos -->
 
-<h3 align="center"> Important Projects/Repos </h3>
+<!-- <h3 align="center"> Important Projects/Repos </h3>
 <a href="https://github.com/AmrMahmoudSaid/Cloud-Wave-PAAS--Graduation-project.git">
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Cloud-Wave-PAAS--Graduation-project
 &layout=compact&theme=tokyonight" />
@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Natours_WebApp&layout=compact&theme=tokyonight" />
 </a>
     &emsp;&emsp;&nbsp;&nbsp; 
-</p>
+</p> -->
 
 
 <!-- Github Stats -->
