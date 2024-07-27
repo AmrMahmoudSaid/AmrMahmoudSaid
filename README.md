@@ -12,14 +12,14 @@
 <!-- Important Projects/Repos -->
 
 <h3 align="center"> Important Projects/Repos </h3>
-<a href="https://github.com/AmrMahmoudSaid/Cloud-Wave-PAAS--Graduation-project">
+<a href="https://github.com/AmrMahmoudSaid/Cloud-Wave-PAAS--Graduation-project.git">
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Cloud-Wave-PAAS--Graduation-project
 &layout=compact&theme=tokyonight" />
 </a>   
 <a href="https://github.com/mohamedenab/Nabd_project.git">
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Nabd_project&layout=compact&theme=tokyonight" />
 </a>  
-<a href="https://github.com/AmrMahmoudSaid/Natours_WebApp">
+<a href="https://github.com/AmrMahmoudSaid/Natours_WebApp.git">
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Natours_WebApp&layout=compact&theme=tokyonight" />
 </a>
     &emsp;&emsp;&nbsp;&nbsp; 
