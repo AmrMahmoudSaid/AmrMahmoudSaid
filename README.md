@@ -23,11 +23,6 @@
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Natours_WebApp&layout=compact&theme=tokyonight" />
 </a>
     &emsp;&emsp;&nbsp;&nbsp; 
-<a href="https://github.com/AmrMahmoudSaid/CurrencyConversionApp.git">
-   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=CurrencyConversionApp&layout=compact&theme=tokyonight" />
-</a>  
-
-
 </p>
 
 
