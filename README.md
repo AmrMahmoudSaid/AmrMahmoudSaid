@@ -12,7 +12,7 @@
 <!-- Important Projects/Repos -->
 
 <h3 align="center"> Important Projects/Repos </h3>
-<a href="https://github.com/AmrMahmoudSaid/Cloud-Wave-PAAS--Graduation-project.git">
+<a href="https://github.com/AmrMahmoudSaid/Cloud-Wave-PAAS--Graduation-project">
   <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=AmrMahmoudSaid&repo=Cloud-Wave&layout=compact&theme=tokyonight" />
 </a>   
 <a href="https://github.com/mohamedenab/Nabd_project.git">
