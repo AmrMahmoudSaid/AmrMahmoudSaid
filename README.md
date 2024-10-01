@@ -4,7 +4,6 @@
 [![GitHubUserStars: AmrMahmoudSaid](https://img.shields.io/github/stars/AmrMahmoudSaid?style=social)](https://github.com/AmrMahmoudSaid)
 
 <!-- - I am currently learning [**`PNPT`**](https://certifications.tcm-sec.com/pnpt/), -->
-= - *Software Engineer*
  - [My Certificates](Certifications_cv/), [📫 reach me](#contact-me).
 
 <br/>
